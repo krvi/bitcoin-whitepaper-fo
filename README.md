@@ -1,6 +1,6 @@
 # Bitcoin hvítbókin á føroyskum
 Hetta er ein føroysk týðing av Bitcoin hvítbókini eftir Satoshi Nakomoto.
-Upprunaverkið skjalið er tøkt á [bitcoin.org](https://bitcoin.org/bitcoin.pdf).
+Upprunaverkið er tøkt á [bitcoin.org](https://bitcoin.org/bitcoin.pdf).
 
 ## Rættingar
 Tú er vælkomin at gera "Pull Requests" við ábótum, ella stovna eitt "Issue" við feilfráboðanum.
